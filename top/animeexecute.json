@@ -1,8 +1,8 @@
 {
-    "name": "Anime FreeDriveMovie repo",
-    "description": "FreeDriveMovie Anime",
+    "name": "Anime Shovon Movie repo",
+    "description": "Shovon Movie Anime",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/freedrivemovie/freedrivemovie.github.io/main/proxoxo/animestream.json"
+      "https://raw.githubusercontent.com/dewdropz/Fremovietv/main/proxoxo/animestream.json"
     ]
   }
