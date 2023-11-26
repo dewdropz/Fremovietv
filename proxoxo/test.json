@@ -1,0 +1,23 @@
+[   
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+        "fileSize": 12133,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Dubbindo",
+        "url": "https://github.com/freedrivemovie/freedrivemovie.github.io/raw/main/cs3/foreign/Dubbindo.cs3",
+        "name": "Dubbindo"
+    }
+]
